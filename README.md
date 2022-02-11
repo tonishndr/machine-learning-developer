@@ -1,4 +1,4 @@
-<h1 align="center">Machine Learning Developer</h1>
+[<h1 align="center">Machine Learning Developer</h1>](https://www.dicoding.com/learningpaths/30)
 
 <p align="center">
   <img src="Assets/mldlogo.png" height="300">
@@ -131,15 +131,15 @@ Pelajari penerapan machine learning dengan real-world projects mulai dari predic
 
 <details><summary>03. Belajar Machine Learning untuk Pemula</summary>
   
-- **Proyek Akhir : Klasifikasi Gambar**
+- [**Proyek Akhir : Klasifikasi Gambar**](https://github.com/tonishndr/Machine-Learning-Developer/blob/main/Belajar%20Machine%20Learning%20untuk%20Pemula/Proyek-Akhir%20-Klasifikasi-Gambar.ipynb)
 
 </details>
 
 <details><summary>04. Belajar Pengembangan Machine Learning</summary>
   
-- **Proyek Pertama : Membuat Model NLP dengan TensorFlow**
-- **Proyek Kedua : Membuat Model Machine Learning dengan Data Time Series**
-- **Proyek Akhir : Image Classification Model Deployment**
+- [**Proyek Pertama : Membuat Model NLP dengan TensorFlow**](https://github.com/tonishndr/Machine-Learning-Developer/blob/main/Belajar%20Pengembangan%20Machine%20Learning/Proyek-Pertama-Membuat-Model-NLP-dengan-TensorFlow.ipynb)
+- [**Proyek Kedua : Membuat Model Machine Learning dengan Data Time Series**](https://github.com/tonishndr/Machine-Learning-Developer/blob/main/Belajar%20Pengembangan%20Machine%20Learning/Proyek-Kedua-Membuat-Model-Machine-Learning-dengan-Data-Time-Series.ipynb)
+- [**Proyek Akhir : Image Classification Model Deployment**](https://github.com/tonishndr/Machine-Learning-Developer/blob/main/Belajar%20Pengembangan%20Machine%20Learning/Proyek-Akhir-Image-Classification-Model-Deployment.ipynb)
   
 </details>
 
