@@ -144,7 +144,9 @@ Pelajari penerapan machine learning dengan real-world projects mulai dari predic
 </details>
 
 <details><summary>05. Machine Learning Terapan</summary>
+  
+- [**Proyek Pertama : Predictive Analytics**](https://github.com/tonishndr/machine-learning-developer/blob/main/machine-learning-terapan/mltp-predictive-analytics/mltp_predictive_analytics.md)
 </details>
-   
+
 </details>
 
