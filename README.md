@@ -131,7 +131,7 @@ Pelajari penerapan machine learning dengan real-world projects mulai dari predic
 
 <details><summary>03. Belajar Machine Learning untuk Pemula</summary>
   
-- [**Proyek Akhir : Klasifikasi Gambar**](https://github.com/tonishndr/machine-learning-developer/blob/main/belajar-machine-learning-untuk-pemula/image-classification.ipynb)
+- [**Proyek Akhir : Klasifikasi Gambar**](https://github.com/tonishndr/machine-learning-developer/blob/main/belajar-machine-learning-untuk-pemula/image_classification.ipynb)
 
 </details>
 
