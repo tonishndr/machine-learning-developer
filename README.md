@@ -131,15 +131,15 @@ Pelajari penerapan machine learning dengan real-world projects mulai dari predic
 
 <details><summary>03. Belajar Machine Learning untuk Pemula</summary>
   
-- [**Proyek Akhir : Klasifikasi Gambar**](https://github.com/tonishndr/Machine-Learning-Developer/blob/main/Belajar%20Machine%20Learning%20untuk%20Pemula/Proyek-Akhir%20-Klasifikasi-Gambar.ipynb)
+- [**Proyek Akhir : Klasifikasi Gambar**](https://github.com/tonishndr/machine-learning-developer/blob/main/belajar-machine-learning-untuk-pemula/image-classification.ipynb)
 
 </details>
 
 <details><summary>04. Belajar Pengembangan Machine Learning</summary>
   
-- [**Proyek Pertama : Membuat Model NLP dengan TensorFlow**](https://github.com/tonishndr/Machine-Learning-Developer/blob/main/Belajar%20Pengembangan%20Machine%20Learning/Proyek-Pertama-Membuat-Model-NLP-dengan-TensorFlow.ipynb)
-- [**Proyek Kedua : Membuat Model Machine Learning dengan Data Time Series**](https://github.com/tonishndr/Machine-Learning-Developer/blob/main/Belajar%20Pengembangan%20Machine%20Learning/Proyek-Kedua-Membuat-Model-Machine-Learning-dengan-Data-Time-Series.ipynb)
-- [**Proyek Akhir : Image Classification Model Deployment**](https://github.com/tonishndr/Machine-Learning-Developer/blob/main/Belajar%20Pengembangan%20Machine%20Learning/Proyek-Akhir-Image-Classification-Model-Deployment.ipynb)
+- [**Proyek Pertama : Membuat Model NLP dengan TensorFlow**](https://github.com/tonishndr/machine-learning-developer/blob/main/belajar-pengembangan-machine-learning/Proyek-Pertama-Membuat-Model-NLP-dengan-TensorFlow.ipynb)
+- [**Proyek Kedua : Membuat Model Machine Learning dengan Data Time Series**](https://github.com/tonishndr/machine-learning-developer/blob/main/belajar-pengembangan-machine-learning/Proyek-Kedua-Membuat-Model-Machine-Learning-dengan-Data-Time-Series.ipynb)
+- [**Proyek Akhir : Image Classification Model Deployment**](https://github.com/tonishndr/machine-learning-developer/blob/main/belajar-pengembangan-machine-learning/Proyek-Akhir-Image-Classification-Model-Deployment.ipynb)
   
 </details>
 
